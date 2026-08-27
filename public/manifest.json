@@ -1,0 +1,17 @@
+{
+  "short_name": "Habit OS",
+  "name": "Habit & Routine OS",
+  "description": "Build the habits you want. Break the habits you don't.",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "type": "image/svg+xml",
+      "sizes": "192x192 512x512"
+    }
+  ],
+  "start_url": "/app/today",
+  "background_color": "#020617",
+  "theme_color": "#10b981",
+  "display": "standalone",
+  "orientation": "portrait"
+}
